@@ -45,6 +45,11 @@ The following are examples of possible synergies:
 -
 
 ### Other tenants?
+- Eric
+- Sabrina
+- Marjorie
+- Binyam
+- Elias
 
 
 ## Infrastructure
